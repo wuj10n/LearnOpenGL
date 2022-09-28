@@ -1,2 +1,2 @@
-# LearnopenGL
-学习openGL过程中的代码实现
+# LearnOpenGL
+学习OpenGL过程中的代码实现
